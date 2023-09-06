@@ -14,7 +14,7 @@ We try to give you all an insight about our data stack and choices that you can 
 <br />
 <br />
 
-We wanted to provide a data stack for building a datawarehouse with which you are able to implement the project, nevertheless it is you who can choose with which tools to set up your environment. The data stack is shown in the picture above and in the following you will learn more about it.
+We wanted to provide a data stack for building a data warehouse with which you are able to implement the project, nevertheless it is you who can choose with which tools to set up your environment. The data stack is shown in the picture above and in the following you will learn more about it.
 
 - Database:
   

@@ -51,5 +51,6 @@ Extra details:
 
   [Offical document](https://docs.docker.com/compose/install/)
 
-  https://www.youtube.com/watch?v=VjUbSe8ONhs
+  [Docker without sudo](https://www.youtube.com/watch?v=VjUbSe8ONhs)
+
 

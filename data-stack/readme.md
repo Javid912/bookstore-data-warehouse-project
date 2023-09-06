@@ -30,6 +30,8 @@ We wanted to provide a data stack for building a data warehouse with which you a
   
   Superset and Metabase are popular tools for the purpose but we found Metabase memory hungry for a local deployment, therefore our stack has Superset.  
 
+Extra details:
+
 - Instruction: Clone the repo first, go to each folder designated to individual tools and follow the instruction to set up that specific tool.
 
 - Links to access the UI's (first you need to run them in docker):

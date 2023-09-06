@@ -46,3 +46,5 @@ We wanted to provide a data stack for building a datawarehouse with which you ar
 
   [Offical document](https://docs.docker.com/compose/install/)
 
+  https://www.youtube.com/watch?v=VjUbSe8ONhs
+

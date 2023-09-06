@@ -26,7 +26,7 @@ We wanted to provide a data stack for building a data warehouse with which you a
   
   Transforming: DBT is a conventional tool and it is a python library so hopefully you find it straightforward to use. It is worth-mentioning that Airbyte can also import BDT scripts and take care of transformation while loading the data.
   
-- BI or datamart:
+- BI or data marts:
   
   Superset and Metabase are popular tools for the purpose but we found Metabase memory hungry for a local deployment, therefore our stack has Superset.  
 

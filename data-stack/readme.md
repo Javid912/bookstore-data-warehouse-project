@@ -20,20 +20,20 @@ We wanted to provide a data stack for building a data warehouse with which you a
   
   Speaking of which, you first of all need to have a database for storing your data as the original idea was using Bigquery on GCP, we thought it might be troublesome for you to setup the billing with your credit card in order to be able to use it, therefore we came up with an easy solution with Postgres running in docker. But feel free if you would like to set up Bigquery and dive into cloud engineering and if you fancy it (contact Amin Abbasloo for assisting you). Please keep in mind Bigquery sandbox won't allow you streaming so you need to set up billing!
 
-2- ** ETL **:
+2- **ETL**:
   
   Loading and Extracting: in our stack, Airbyte handles these steps.
   
   Transforming: DBT is a conventional tool and it is a python library so hopefully you find it straightforward to use. It is worth-mentioning that Airbyte can also import BDT scripts and take care of transformation while loading the data.
   
-3- ** BI or data marts **:
+3- **BI or data marts**:
   
   Superset and Metabase are popular tools for the purpose but we found Metabase memory hungry for a local deployment, therefore our stack has Superset.  
 
 <br />
 <br />
 
-** Knoblauchsoße **:
+**Knoblauchsoße**:
 
 - Instruction: Clone the repo first, go to each folder designated to individual tools and follow the instruction to set up that specific tool.
 

@@ -1,3 +1,6 @@
+<br />
+<br />
+
 Hello everyone and we hope you are having a good day!
 
 We try to give you all an insight about our data stack and choices that you can make for this course.

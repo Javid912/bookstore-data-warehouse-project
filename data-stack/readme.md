@@ -16,7 +16,7 @@ We try to give you all an insight about our data stack and choices that you can 
 
 We wanted to provide a data stack for building a data warehouse with which you are able to implement the project, nevertheless it is you who can choose with which tools seting up your environment. The data stack is shown in the picture above and in the following you will learn more about it.
 
-1- ** Database **:
+1- **Database**:
   
   Speaking of which, you first of all need to have a database for storing your data as the original idea was using Bigquery on GCP, we thought it might be troublesome for you to setup the billing with your credit card in order to be able to use it, therefore we came up with an easy solution with Postgres running in docker. But feel free if you would like to set up Bigquery and dive into cloud engineering and if you fancy it (contact Amin Abbasloo for assisting you). Please keep in mind Bigquery sandbox won't allow you streaming so you need to set up billing!
 

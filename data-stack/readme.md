@@ -7,7 +7,7 @@ We try to give you all an insight about our data stack and choices that you can 
 
 
 
-<img src="./datastack.jpg"  width="640">
+<img src="./datastack.jpg"  width="840">
 
 
 

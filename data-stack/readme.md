@@ -8,6 +8,7 @@ We try to give you all an insight about our data stack and choices that you can 
 
 
 ![data stack](./datastack.jpg "Data Stack"){width=40%}
+![data stack]() <img src="./datastack.jpg"  width="120">
 
 
 

@@ -2,6 +2,8 @@ NOTICE: Please skip this instruction since we don't use Airflow for now!
 
 Run on your terminal: `docker-compose up -d`
 
+Run on your terminal: `docker-compose down` for terminating the application.
+
 Using Airflow is quite memory intensive so we deciced to consider it as an advance topic and if time allows, it will be integrated as an orchestrator. In that case, DBT is going to be installed in Airflow container (executor) and there is an Airflow operator for interacting with Airbyte.
 
 

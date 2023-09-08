@@ -5,5 +5,5 @@ Follow these steps:
 - run on your terminal: `cd superset`
 - run on your terminal:  `docker-compose -f docker-compose-non-dev.yml pull`
 - run on your terminal: `docker-compose -f docker-compose-non-dev.yml up -d`
-- run on your terminal (it sets up the login credentials for admin): `docker exec -it superset_app bash ./docker/docker-init.sh`
+- wait a few minutes till containers are up and running then run on your terminal (it sets up the login credentials for admin): `docker exec -it superset_app bash ./docker/docker-init.sh`
 - go to http://localhost:8088 and log in by `user: admin` and `pass: admin`.

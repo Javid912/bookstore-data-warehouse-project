@@ -56,8 +56,9 @@ We wanted to provide a data stack for building a data warehouse with which you a
 
   [Offical document](https://docs.docker.com/compose/install/)
 
-- SQL tutorial:
+- Tutorials for beginners:
 
   [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
+  [Docker Tutorial for Beginners ](https://www.youtube.com/watch?v=3c-iBn73dDE)
 

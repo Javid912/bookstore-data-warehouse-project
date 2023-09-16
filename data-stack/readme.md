@@ -52,8 +52,12 @@ We wanted to provide a data stack for building a data warehouse with which you a
 
 - Installing docker-compose:
 
+  [Docker without sudo](https://www.youtube.com/watch?v=VjUbSe8ONhs)
+
   [Offical document](https://docs.docker.com/compose/install/)
 
-  [Docker without sudo](https://www.youtube.com/watch?v=VjUbSe8ONhs)
+- SQL tutorial:
+
+  [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 

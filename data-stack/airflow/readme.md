@@ -13,3 +13,5 @@ For more infor:
 
 [Article 2](https://awstip.com/orchestrate-airbyte-using-apache-airflow-f410e7c8eb02)
 
+[Orchestrator vs Execution](https://www.youtube.com/watch?v=In7zwp0FDX4)
+

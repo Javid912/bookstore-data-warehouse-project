@@ -30,15 +30,13 @@ List the components / frameworks which the student is going to use / learn. Exam
 - [x] dbt - transformation tool
 - [x] Metabase - BI tool
 
-
-
-## 5. Optional Challenges
+## 4. Extra Challenges for further developments
 Add a few extra challenges for the more ambitious students. 
 * Create additional fact table: `orders` that summarizes all order line items and adds shipping costs. Users can analyze sales and shipping.
 * Create additional dimensional tables: `publishers` and `languages`. Users can analyze sales per publisher and languages.
 * Create additional fact tables: `order_fulfillment`. Users can analyze orders by status.
 
-## 6. Technical Setup
+## 5. Technical Setup
 How can the student get started with the project? Example: 
 1. Fork boilerplate repo
 2. Set up the project with version control (e.g. Git)
@@ -47,7 +45,7 @@ How can the student get started with the project? Example:
 5. Set up your project/file architecture however you want
 6. Start coding!
 
-## 7. Resources / Hints & Tips
+## 6. Resources / Hints & Tips
 - (free book) The Analytics Setup Guidebook from Holistics.io: https://www.holistics.io/books/setup-analytics/start-here-introduction/
 - (free course) dbt Fundamentals Course from dbt Labs: https://courses.getdbt.com/courses/fundamentals
 - (blog series) Three-Part Data Modeling Series from airbyte: 
@@ -55,7 +53,7 @@ https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-introduction
 https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-approaches-and-techniques 
 https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools 
 
-## 8. Glossary
+## 7. Glossary
 - **[Airbyte](https://airbyte.io/)**: An open-source data integration platform that extracts and loads data from various sources.
   <details>
   <summary> Learning Resources</summary>

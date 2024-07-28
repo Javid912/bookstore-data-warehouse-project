@@ -31,10 +31,6 @@ List the components / frameworks which the student is going to use / learn. Exam
 - [x] Metabase - BI tool
 
 
-## 4. Minimum Acceptance Criteria
-What are the minimum criteria which the project should meet to be considered "done"? 
-- [ ] Users are able to query data from Metabase
-- [ ] Users are able to view a dashboard about book sales/orders
 
 ## 5. Optional Challenges
 Add a few extra challenges for the more ambitious students. 
